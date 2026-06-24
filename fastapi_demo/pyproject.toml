@@ -22,4 +22,4 @@ dev = [
 ## prochaine version de uv
 #[tool.uv.scripts]
 #start = "uvicorn app.main:app --reload"
-#test = "pytest"
+#test = "pytest -v"
