@@ -1,14 +1,14 @@
 ---
-id: {{date:YYYYMMDDHHmm}}
+id: "{{date:YYYYMMDDHHmm}}"
 type: ticket
 tags:
   - kanban/ticket
   - projet/nom
-date_creation: {{date:YYYY-MM-DD}}
+date_creation: "{{date}}"
 statut: a-faire
 priorite: moyenne
 projet: "[[NomDuProjet]]"
-date_echeance: 
+date_echeance: "{{date}}"
 ---
 
 # {{title}}
