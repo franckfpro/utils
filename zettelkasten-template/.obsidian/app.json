@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "06-Pieces-jointes",
   "newFileLocation": "folder",
-  "newFileFolderPath": "00-Boite-de-reception"
+  "newFileFolderPath": "00-Boite-de-reception",
+  "promptDelete": false
 }

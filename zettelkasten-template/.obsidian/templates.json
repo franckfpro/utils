@@ -1,3 +1,5 @@
 {
-  "folder": "05-Modeles"
+  "folder": "05-Modeles",
+  "dateFormat": "YYYY-MM-DD",
+  "timeFormat": "HH:mm"
 }
