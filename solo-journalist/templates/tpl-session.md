@@ -10,6 +10,7 @@ date_creation:
   "{ date }":
 personnages: []
 quetes_actives: []
+scenes: []
 ---
 
 # Session [Numéro]: [Titre ou Résumé de la session]
