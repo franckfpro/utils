@@ -1,9 +1,1 @@
-{
-  "attachmentFolderPath": "_attachments",
-  "promptDelete": false,
-  "alwaysUpdateLinks": true,
-  "showLineNumber": false,
-  "readableLineLength": false,
-  "showInlineTitle": false,
-  "deleteUnlinkedAttachments": "never"
-}
+{}
